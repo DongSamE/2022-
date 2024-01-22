@@ -16,3 +16,8 @@
 ●대출신청, 미신청 고객을 분류하여 고객의 특성 분석결과 도출
 
     Derive customer characteristic analysis results by classifying customers who applied for or did not apply for a loan
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 데이터(Dataset)
+
+● 유저스펙테이블
+![image](https://github.com/DongSamE/2022-/assets/122610839/dcc8f960-a649-44dc-b756-7bd945f18cf1)
