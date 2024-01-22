@@ -19,5 +19,17 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 데이터(Dataset)
 
-● 유저스펙테이블
+● 유저스펙테이블 (User's spec table)
 ![image](https://github.com/DongSamE/2022-/assets/122610839/dcc8f960-a649-44dc-b756-7bd945f18cf1)
+
+User's information [Userid, birth, applydate, Job type, Yearly income, etc)
+
+● 대출상품 결과 테이블 (Loan result table)
+![image](https://github.com/DongSamE/2022-/assets/122610839/b8c6f8c2-34ca-463e-85d6-b4a773d7341b)
+
+Loan result depend on application number [Finacial company number, Product number, Limit, Interest rate, etc]
+
+● 유저 로그 데이터 (User's log data)
+![image](https://github.com/DongSamE/2022-/assets/122610839/ac6d7578-65b5-440d-99e0-860a6c6b6742)
+
+User's log data [action, action datetime, etc]
