@@ -23,7 +23,7 @@
 ● __유저스펙테이블 (User's spec table)__
 ![image](https://github.com/DongSamE/2022-/assets/122610839/dcc8f960-a649-44dc-b756-7bd945f18cf1)
 
-`User's information [Userid, birth, applydate, Job type, Yearly income, etc)`
+`User's information [Userid, birth, applydate, Job type, Yearly income, etc]`
 
 ● __대출상품 결과 테이블 (Loan result table)__
 ![image](https://github.com/DongSamE/2022-/assets/122610839/b8c6f8c2-34ca-463e-85d6-b4a773d7341b)
